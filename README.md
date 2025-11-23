@@ -112,4 +112,3 @@ This project can be extended with:
 
 
 # Fingerprint-Matching-Using-Pores-Extracted-with-Machine-Learning
-# Fingerprint-Matching-Using-Pores-Extracted-with-Machine-Learning
